@@ -1,7 +1,7 @@
 
 ## Qiushi Wu
 
-<strong> Ph.D. student </strong> in the Department of Computer Science & Engineering, the University of Minnesota
+<strong> Ph.D. student </strong> in [the Department of Computer Science & Engineering](https://cse.umn.edu/cs), the [University of Minnesota (Twin Cities)](https://twin-cities.umn.edu/)
 
 <strong>Email:</strong>
 wu000273 at umn.edu
