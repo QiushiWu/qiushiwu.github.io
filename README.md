@@ -13,7 +13,7 @@ I am a Ph.D. student in the Computer Science & Engineering Department at the Uni
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=CLHWfM4AAAAJ)
 
-;[Link](url) and ![Image](src)
+<!--[Link](url) and ![Image](src)-->
 
 ### Research
 
