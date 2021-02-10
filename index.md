@@ -24,7 +24,7 @@ In the past two years, I have designed and implemented several automated analysi
 ### Publications
 
 <strong>2021</strong>  
-* On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/OpenSourceInsecurity.pdf)\]  
+* On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/OpenSourceInsecurity.pdf), [FAQ](https://www-users.cs.umn.edu/~kjlu/papers/clarifications-hc.pdf)\]  
 <strong>Qiushi Wu</strong>, and Kangjie Lu.  
 To appear in the <em>42nd IEEE Symposium on Security and Privacy (<strong>Oakland'21</strong>)</em>. Virtual conference, May 2021.
   
@@ -37,13 +37,13 @@ Navid Emamdoost, <strong>Qiushi Wu</strong>, Kangjie Lu, and Stephen McCamant.
 To appear in the <em>2021 Annual Network and Distributed System Security Symposium (<strong>NDSS'21</strong>)</em>. San Diego, CA, February 2021.  
 
 <strong>2020</strong>  
-* Precisely Characterizing Security Impact in a Flood of Patches via Symbolic Rule Comparison \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/sid.pdf)\]  
+* Precisely Characterizing Security Impact in a Flood of Patches via Symbolic Rule Comparison \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/sid.pdf), [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:9lWTTIDBDbYJ:scholar.google.com/&output=citation&scisdr=CgUBG7pwENad8aVUI8k:AAGBfm0AAAAAYCRSO8n23zbgC_BEtEhSh5urzpdfrbay&scisig=AAGBfm0AAAAAYCRSOxfWshx8g-auoKwMgHElTey9DrYy&scisf=4&ct=citation&cd=-1&hl=en), [slides](https://www.ndss-symposium.org/wp-content/uploads/24419-slides.pdf),[video](https://www.youtube.com/watch?v=fpkXkvwKbZw&list=PLfUWWM-POgQu00jYI0Oou8u2JjKpPWMt9&index=3&t=0s)\]  
 <strong>Qiushi Wu</strong>, Yang He, Stephen McCamant, and Kangjie Lu.  
 In Proceedings of the <em>2020 Annual Network and Distributed System Security Symposium (<strong>NDSS'20</strong>)</em>. San Diego, CA, February 2020.  
 
 
 <strong>2019</strong>  
-* Detecting Missing-Check Bugs via Semantic- and Context-Aware Criticalness and Constraints Inferences \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/crix.pdf), [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:1M8-0sRQwsgJ:scholar.google.com/&output=citation&scisdr=CgUBG7pwENad8aVXKE0:AAGBfm0AAAAAYCRRME0TfqefiIQiCyEXQamqIpPVBuKZ&scisig=AAGBfm0AAAAAYCRRMFLNxaPzoSWs3zNAx7UyguE6QzEZ&scisf=4&ct=citation&cd=-1&hl=en), [slide](https://www.usenix.org/sites/default/files/conference/protected-files/sec19_slides_lu.pdf)\]   
+* Detecting Missing-Check Bugs via Semantic- and Context-Aware Criticalness and Constraints Inferences \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/crix.pdf), [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:1M8-0sRQwsgJ:scholar.google.com/&output=citation&scisdr=CgUBG7pwENad8aVXKE0:AAGBfm0AAAAAYCRRME0TfqefiIQiCyEXQamqIpPVBuKZ&scisig=AAGBfm0AAAAAYCRRMFLNxaPzoSWs3zNAx7UyguE6QzEZ&scisf=4&ct=citation&cd=-1&hl=en), [slides](https://www.usenix.org/sites/default/files/conference/protected-files/sec19_slides_lu.pdf), [video](https://www.youtube.com/watch?v=0pDNH-1pvzc)\]   
 Kangjie Lu, Aditya Pakki, and <strong>Qiushi Wu</strong>.
 In Proceedings of the <em>28th USENIX Security Symposium (<strong>Security'19</strong>)</em>. Santa Clara, CA, August 2019.
 
