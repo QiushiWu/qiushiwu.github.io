@@ -11,7 +11,7 @@ wu000273 at umn.edu
 
 I am a Ph.D. student in the Computer Science & Engineering Department at the University of Minnesota. I received my undergraduate B.A. in the Information Science & Engineering Department of the University of Science and Technology of China in 2018. My primary research interest is applications of program analysis techniques on operating systems such as the Linux kernel.
 
-[Google scholar](https://scholar.google.com/citations?hl=en&user=CLHWfM4AAAAJ)
+[Google scholar](https://scholar.google.com/citations?hl=en&user=CLHWfM4AAAAJ)  | [CV](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/cv/QSW_CV.pdf)
 
 <!--[Link](url) and ![Image](src)-->
 
