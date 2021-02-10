@@ -6,9 +6,10 @@
 Department of Computer Science & Engineering
 University of Minnesota
 
-##### Email:
+<strong>Email:</strong>
 wu000273 at umn.edu
-##### Office:
+
+<strong>Office:</strong>
 5-248 Keller Hall, 200 Union St SE Minneapolis, MN 55455
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=CLHWfM4AAAAJ)
