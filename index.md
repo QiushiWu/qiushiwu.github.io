@@ -43,11 +43,11 @@ In Proceedings of the <em>2020 Annual Network and Distributed System Security Sy
 
 
 <strong>2019</strong>  
-* Detecting Missing-Check Bugs via Semantic- and Context-Aware Criticalness and Constraints Inferences \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/crix.pdf), [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:1M8-0sRQwsgJ:scholar.google.com/&output=citation&scisdr=CgUBG7pwENad8aVXKE0:AAGBfm0AAAAAYCRRME0TfqefiIQiCyEXQamqIpPVBuKZ&scisig=AAGBfm0AAAAAYCRRMFLNxaPzoSWs3zNAx7UyguE6QzEZ&scisf=4&ct=citation&cd=-1&hl=en), [slides](https://www.usenix.org/sites/default/files/conference/protected-files/sec19_slides_lu.pdf), [video](https://www.youtube.com/watch?v=0pDNH-1pvzc)\]   
+* Detecting Missing-Check Bugs via Semantic- and Context-Aware Criticalness and Constraints Inferences \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/crix.pdf), [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:1M8-0sRQwsgJ:scholar.google.com/&output=citation&scisdr=CgUBG7pwENad8aVXKE0:AAGBfm0AAAAAYCRRME0TfqefiIQiCyEXQamqIpPVBuKZ&scisig=AAGBfm0AAAAAYCRRMFLNxaPzoSWs3zNAx7UyguE6QzEZ&scisf=4&ct=citation&cd=-1&hl=en), [slides](https://www.usenix.org/sites/default/files/conference/protected-files/sec19_slides_lu.pdf), [video](https://www.youtube.com/watch?v=0pDNH-1pvzc), [git](https://github.com/umnsec/crix)\]   
 Kangjie Lu, Aditya Pakki, and <strong>Qiushi Wu</strong>.
 In Proceedings of the <em>28th USENIX Security Symposium (<strong>Security'19</strong>)</em>. Santa Clara, CA, August 2019.
 
-* Automatically Identifying Security Checks for Detecting Kernel Semantic Bugs  \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/cheq.pdf), [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:t0kKnOhcgTwJ:scholar.google.com/&output=citation&scisdr=CgUBG7pwENad8aVXz0g:AAGBfm0AAAAAYCRR10hTTByddmlanOYLIe2kUGTFUeSG&scisig=AAGBfm0AAAAAYCRR18KHA7BzEMu5n0HxuR10hZa_2T4w&scisf=4&ct=citation&cd=-1&hl=en)\]  
+* Automatically Identifying Security Checks for Detecting Kernel Semantic Bugs  \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/cheq.pdf), [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:t0kKnOhcgTwJ:scholar.google.com/&output=citation&scisdr=CgUBG7pwENad8aVXz0g:AAGBfm0AAAAAYCRR10hTTByddmlanOYLIe2kUGTFUeSG&scisig=AAGBfm0AAAAAYCRR18KHA7BzEMu5n0HxuR10hZa_2T4w&scisf=4&ct=citation&cd=-1&hl=en), [git](https://github.com/umnsec/cheq)\]  
 Kangjie Lu, Aditya Pakki, and <strong>Qiushi Wu</strong>.  
 In Proceedings of the <em>24th European Symposium on Research in Computer Security (<strong>ESORICS'19</strong>)</em>. Luxembourg, September 2019.
 
