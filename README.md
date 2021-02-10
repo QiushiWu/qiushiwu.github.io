@@ -33,7 +33,7 @@ To appear in the <em>42nd IEEE Symposium on Security and Privacy (<strong>Oaklan
 <strong>Qiushi Wu</strong>, Aditya Pakki, Navid Emamdoost, Stephen McCamant, and Kangjie Lu.  
 To appear in the <em>30th USENIX Security Symposium (<strong>Security'21</strong>)</em>. Vancouver, Canada, August 2021.  
 
-* Detecting Kernel Memory Leaks in Specialized Modules with Ownership Reasoning1 \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/k-meld.pdf)\]  
+* Detecting Kernel Memory Leaks in Specialized Modules with Ownership Reasoning \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/k-meld.pdf)\]  
 Navid Emamdoost, <strong>Qiushi Wu</strong>, Kangjie Lu, and Stephen McCamant.  
 To appear in the <em>2021 Annual Network and Distributed System Security Symposium (<strong>NDSS'21</strong>)</em>. San Diego, CA, February 2021.  
 
@@ -54,5 +54,7 @@ In Proceedings of the <em>24th European Symposium on Research in Computer Securi
 
 
 ### Teaching
+*  Fall 2018: CSCI 2021 Machine Architecture and Organization
+
 ### Experience
 
