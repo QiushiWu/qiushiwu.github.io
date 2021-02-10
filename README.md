@@ -1,7 +1,7 @@
 
 ## Qiushi Wu
 
-<strong> Ph.D. student </strong> in [the Department of Computer Science & Engineering](https://cse.umn.edu/cs), the [University of Minnesota (Twin Cities)](https://twin-cities.umn.edu/)
+<strong> Ph.D. student </strong> in [the Department of Computer Science & Engineering](https://cse.umn.edu/cs), at the [University of Minnesota (Twin Cities)](https://twin-cities.umn.edu/)
 
 <strong>Email:</strong>
 wu000273 at umn.edu
@@ -48,8 +48,7 @@ In Proceedings of the <em>2020 Annual Network and Distributed System Security Sy
 Kangjie Lu, Aditya Pakki, and <strong>Qiushi Wu</strong>.  
 In Proceedings of the <em>28th USENIX Security Symposium (<strong>Security'19</strong>)</em>. Santa Clara, CA, August 2019.
 
-* Detecting Missing-Check Bugs via Semantic- and Context-Aware Criticalness and Constraints Inferences
-<p align="right">\[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/cheq.pdf)\]</p>  
+* Detecting Missing-Check Bugs via Semantic- and Context-Aware Criticalness and Constraints Inferences \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/cheq.pdf)\]   
 Kangjie Lu, Aditya Pakki, and <strong>Qiushi Wu</strong>.
 In Proceedings of the <em>24th European Symposium on Research in Computer Security (<strong>ESORICS'19</strong>)</em>. Luxembourg, September 2019.
 
