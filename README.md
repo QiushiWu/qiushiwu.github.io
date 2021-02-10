@@ -25,7 +25,7 @@ My research aims to protect widely used systems programs such as operating syste
 ### Publications
 
 <strong>2021</strong>
-* On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits  <p align="right">\[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/OpenSourceInsecurity.pdf)\]</p>  
+* <p align="left">On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits</p>  <p align="right">\[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/OpenSourceInsecurity.pdf)\]</p>  
   <strong>Qiushi Wu</strong>, and Kangjie Lu.  
   To appear in the <em>42nd IEEE Symposium on Security and Privacy (<strong>Oakland'21</strong>)</em>. Virtual conference, May 2021.
   
