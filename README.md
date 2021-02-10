@@ -29,26 +29,26 @@ My research aims to protect widely used systems programs such as operating syste
 <strong>Qiushi Wu</strong>, and Kangjie Lu.  
 To appear in the <em>42nd IEEE Symposium on Security and Privacy (<strong>Oakland'21</strong>)</em>. Virtual conference, May 2021.
   
-* Understanding and Detecting Disordered Error Handling with Precise Function Pairing   \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/hero.pdf)\]  
+* Understanding and Detecting Disordered Error Handling with Precise Function Pairing   \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/hero.pdf)\]   
 <strong>Qiushi Wu</strong>, Aditya Pakki, Navid Emamdoost, Stephen McCamant, and Kangjie Lu.  
 To appear in the <em>30th USENIX Security Symposium (<strong>Security'21</strong>)</em>. Vancouver, Canada, August 2021.  
 
-* Detecting Kernel Memory Leaks in Specialized Modules with Ownership Reasoning1 \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/k-meld.pdf)\]
+* Detecting Kernel Memory Leaks in Specialized Modules with Ownership Reasoning1 \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/k-meld.pdf)\]  
 Navid Emamdoost, <strong>Qiushi Wu</strong>, Kangjie Lu, and Stephen McCamant.  
 To appear in the <em>2021 Annual Network and Distributed System Security Symposium (<strong>NDSS'21</strong>)</em>. San Diego, CA, February 2021.  
 
 <strong>2020</strong>  
-* Precisely Characterizing Security Impact in a Flood of Patches via Symbolic Rule Comparison \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/sid.pdf)\]
+* Precisely Characterizing Security Impact in a Flood of Patches via Symbolic Rule Comparison \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/sid.pdf)\]  
 <strong>Qiushi Wu</strong>, Yang He, Stephen McCamant, and Kangjie Lu.  
 In Proceedings of the <em>2020 Annual Network and Distributed System Security Symposium (<strong>NDSS'20</strong>)</em>. San Diego, CA, February 2020.  
 
 
 <strong>2019</strong>  
-* Automatically Identifying Security Checks for Detecting Kernel Semantic Bugs  \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/crix.pdf)\]
+* Automatically Identifying Security Checks for Detecting Kernel Semantic Bugs  \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/crix.pdf)\]  
 Kangjie Lu, Aditya Pakki, and <strong>Qiushi Wu</strong>.  
 In Proceedings of the <em>28th USENIX Security Symposium (<strong>Security'19</strong>)</em>. Santa Clara, CA, August 2019.
 
-* Detecting Missing-Check Bugs via Semantic- and Context-Aware Criticalness and Constraints Inferences  \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/cheq.pdf)\]
+* Detecting Missing-Check Bugs via Semantic- and Context-Aware Criticalness and Constraints Inferences  \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/cheq.pdf)\]  
 Kangjie Lu, Aditya Pakki, and <strong>Qiushi Wu</strong>.
 In Proceedings of the <em>24th European Symposium on Research in Computer Security (<strong>ESORICS'19</strong>)</em>. Luxembourg, September 2019.
 
