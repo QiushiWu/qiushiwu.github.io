@@ -1,0 +1,37 @@
+.about {
+  .profile {
+    text-align: center;
+    margin-top: 3%;
+  
+    .selfie {
+      display: block;
+      width: 120px;
+      margin: 0 auto;
+      border-radius: 100%;
+    }
+  
+    .info {
+      margin-top: 1.5%;
+      margin-bottom: 2%;
+  
+      .title {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: black;
+      }
+      .description {
+        font-size: 1rem;
+        color: gray;
+      }
+    }
+  }
+
+  &-icon {
+    margin-left: 1.3rem;
+    line-height: 2rem;
+  }
+
+  &-icon-text {
+    margin-left: 0.8rem;
+  }
+}

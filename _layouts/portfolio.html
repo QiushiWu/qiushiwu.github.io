@@ -1,0 +1,40 @@
+---
+layout: base 
+---
+
+<div class="portfolio">
+  {% for post in paginator.posts %}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-item">
+      <div>
+        <h1 class="portfolio-title">{{ post.title }}</h1>
+        <div class="portfolio-line"></div>
+
+        <div class="portfolio-content"> 
+          <span class="portfolio-icon">
+              <i class="fa fa-sticky-note"></i><span class="portfolio-icon-text">[{{ post.type }}] {{ post.info }}</span>
+          </span>
+          </br>
+          <span class="portfolio-icon">
+              <i class="fa fa-calendar-alt"></i><span class="portfolio-icon-text">{{ post.date | date: "%B %d, %Y" }}</span>
+          </span>
+          </br>
+          <span class="portfolio-icon">
+              <i class="fa fa-cog"></i><span class="portfolio-icon-text">{{ post.tech }}</span>
+          </span>
+        </div>
+      </div>
+    </a>
+    </br>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left next">Prev</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right next">Next</a>
+  {% endif %}
+
+  <span>{{ paginator.page }}</span>
+</div>

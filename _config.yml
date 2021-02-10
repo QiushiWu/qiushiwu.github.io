@@ -1,1 +1,62 @@
-theme: jekyll-theme-slate
+# Site settings
+title: A.P
+baseurl: "/ap"
+url: "https://kssim.github.io"
+google_analytics: # Tracking ID, e.g. "UA-000000-01"
+
+# Author
+author:
+  name: KyeongSeob Sim
+  desc: Hello nice to meet you
+  email: ksub0912@gmail.com
+  selfie: assets/img/profile.jpg
+
+# social
+social:
+  email: true
+  behance:
+  bitbucket:
+  dribbble:
+  facebook: Test
+  flickr:
+  github: kssim
+  google_plus:
+  instagram:
+  keybase:
+  linkedin: https://www.linkedin.com/in/kssim/ 
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:
+  steam:
+  tumblr:
+  gitlab:
+  twitter: Test
+  vimeo:
+  wordpress:
+  youtube:
+  default_txt: "Follow On"
+
+# Build settings
+markdown: kramdown
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink: /:year-:month-:day/:title
+paginate_path: "/portfolio/page:num/"
+paginate: 5
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gem"
+  - "LICENSE"
+  - "READE.md"
+  - "screenshot.png"
