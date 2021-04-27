@@ -24,9 +24,8 @@ In the past two years, I have designed and implemented several automated analysi
 ### Publications
 
 <strong>2021</strong>  
-* On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/OpenSourceInsecurity.pdf), [FAQ](https://www-users.cs.umn.edu/~kjlu/papers/clarifications-hc.pdf)\]  
-<strong>Qiushi Wu</strong>, and Kangjie Lu.  
-To appear in the <em>42nd IEEE Symposium on Security and Privacy (<strong>Oakland'21</strong>)</em>. Virtual conference, May 2021.
+* On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/OpenSourceInsecurity.pdf)\] \[[FAQ](https://github.com/QiushiWu/qiushiwu.github.io/blob/main/OtherDocs/clarifications-hc.pdf)\]  \[[Withdrawal-Letter](https://www-users.cs.umn.edu/~kjlu/papers/withdrawal-letter.pdf)\]  \[[Case-study disclosure](https://github.com/QiushiWu/qiushiwu.github.io/blob/main/OtherDocs/full_disclosure_of_case_study.pdf)\] \[[Open letter to Linux](https://github.com/QiushiWu/qiushiwu.github.io/blob/main/OtherDocs/note_to_Linux.pdf)\]  
+<strong>Qiushi Wu</strong>, and Kangjie Lu. 
   
 * Understanding and Detecting Disordered Error Handling with Precise Function Pairing   \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/hero.pdf)\]   
 <strong>Qiushi Wu</strong>, Aditya Pakki, Navid Emamdoost, Stephen McCamant, and Kangjie Lu.  
