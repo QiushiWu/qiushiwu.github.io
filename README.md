@@ -25,7 +25,7 @@ In the past two years, I have designed and implemented several automated analysi
 ### Publications
 
 <strong>2021</strong>  
-* On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/OpenSourceInsecurity.pdf)\] \[[FAQ](https://github.com/QiushiWu/qiushiwu.github.io/blob/main/OtherDocs/clarifications-hc.pdf)\]  \[[Withdrawal-Letter](https://www-users.cs.umn.edu/~kjlu/papers/withdrawal-letter.pdf)\]  \[[Case-study disclosure](https://github.com/QiushiWu/qiushiwu.github.io/blob/main/OtherDocs/full_disclosure_of_case_study.pdf)\] \[[Open letter to Linux](https://github.com/QiushiWu/qiushiwu.github.io/blob/main/OtherDocs/note_to_Linux.pdf)\]  
+* On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits \[[PDF](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/OpenSourceInsecurity.pdf)\] \[[FAQ](https://www-users.cs.umn.edu/~kjlu/papers/clarifications-hc.pdf)\]  \[[Withdrawal-Letter](https://www-users.cs.umn.edu/~kjlu/papers/withdrawal-letter.pdf)\]  \[[Case-study disclosure](https://www-users.cs.umn.edu/~kjlu/papers/full-disclosure.pdf)\] \[[Open letter to Linux](https://cse.umn.edu/cs/open-letter-linux-community-april-24-2021)\]  
 <strong>Qiushi Wu</strong>, and Kangjie Lu.  
 
   
