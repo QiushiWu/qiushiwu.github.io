@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Temporary sitemap. Every URL listed here is a retired page that now redirects to
+  https://qiushiwu.com/. Its only purpose is to get these URLs recrawled so that
+  search engines see the redirects and consolidate the signal onto the new site.
+  Once the redirects have been picked up, this file can be removed.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://qiushiwu.github.io/</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://qiushiwu.github.io/portfolio/</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://qiushiwu.github.io/_site/</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://qiushiwu.github.io/_site/portfolio/</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://qiushiwu.github.io/_site/portfolio/page2/</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://qiushiwu.github.io/_site/2017-05-01/toy-project.html</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://qiushiwu.github.io/_site/2017-08-21/toy-project-1.html</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://qiushiwu.github.io/_site/2017-10-11/create-github.html</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://qiushiwu.github.io/_site/2017-12-14/reservation-bot.html</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://qiushiwu.github.io/_site/2018-01-02/github-page.html</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://qiushiwu.github.io/_site/2018-03-25/create-ap.theme.html</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+</urlset>
